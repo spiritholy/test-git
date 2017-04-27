@@ -6,3 +6,5 @@ var f = 5;
 var g = 6;
 
 // some change
+
+var master = 11
