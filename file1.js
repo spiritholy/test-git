@@ -7,6 +7,8 @@ var g = 6;
 
 // some change
 
-var master = 11
+var master = 11;
 
 var h = 7;
+
+var i = 8;
