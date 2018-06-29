@@ -16,3 +16,6 @@ var i = 8;
 var n = 9;
 
 var lll = 10;
+
+
+var charactor = 'aaa';
